@@ -10,6 +10,8 @@ This file was committed before I solved either bug.
 
 Two already-fixed bugs in open-source projects, each solved from the commit before the fix. One with learn mode, one by plain delegation. The same 5 questions are answered three times: before (from the issue description only), and a week after each fix, from memory. The merged fix is the answer key: I don't open the fix PR until the last quiz is done.
 
+**Change, 2026-11-10, before A's quiz:** "a week" becomes 8 days for both bugs. B was quizzed 8 days after its fix (10-31 → 11-08), so A's quiz moves from 11-15 to 11-16 (11-08 → 11-16) to keep the gap equal.
+
 Measure: gain = after score − before score, per bug.
 
 ### Questions (same for both bugs)
