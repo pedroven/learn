@@ -43,5 +43,5 @@ Written 2026-10-29, before solving either bug: learn mode (B) scores **4/5** vs 
 
 | Bug | Method | Date solved | Time | Before /5 | After /5 (quiz date) | Gain |
 |---|---|---|---|---|---|---|
-| A | delegation | | | | | |
-| B | learn mode | | | | | |
+| A | delegation | 2026-11-08 | 11m | | | |
+| B | learn mode | 2026-10-31 | 1h 26m | | | |
